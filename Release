@@ -9,8 +9,8 @@ Description: DG管理器
 Support: https://mihanios.github.io/DG/
 Icon: https://mihanios.github.io/DG/CydiaIcon.png
 MD5Sum:
- 3bb85137b49e39593579a729be21b5f6  665 Packages
- e3b2658594e41dd63a9424193b6c2372  540 Packages.gz
+ 76cdc228762ef5d1ceb93af5831ec5cc  626 Packages
+ acf24d19dec4ec8108f71cadd8cb6d44  519 Packages.gz
 SHA256:
- 2f434b089af25b048fd1a654f1d7244b5b19656e0e0bf8460e04eea9c3b75dd4  665 Packages
- 677772521d76cb5cb2ddce47fdf01fe5bd2534113bc77eea04d274cb7ced6d85  540 Packages.gz
+ 30579a8b0a1a07694cb9a42ebe724cf44edfe7a8469b274dadffd7a35581a8d1  626 Packages
+ 7616cb7b4129fa9c2f12bbb08f008f1942aa42607f436c87ed18d15cd5646b0d  519 Packages.gz
