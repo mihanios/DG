@@ -1,0 +1,16 @@
+Origin: DG管理器
+Label: DG管理器
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: DG管理器
+Support: https://mihanios.github.io/DG/
+Icon: https://mihanios.github.io/DG/CydiaIcon.png
+MD5Sum:
+ 2e74004ccb68d04566db03278d14f1c5  645 Packages
+ ae42a5c89d0c5c95cabbb019ce6ce6da  533 Packages.gz
+SHA256:
+ f1085e98517b90e4a8ae74cd188286b476587ce21d943ef36c06d00f392fe65e  645 Packages
+ 4364f9c1a520e7dad819585308b8c7e9b32259addee75cc02dcc2434e85cf71b  533 Packages.gz
