@@ -11,7 +11,7 @@ MD5sum: bb20ee1c8a61c6a5090a3a4c6042376b
 SHA1: 5b5fa0380fb2da52e69d8e0077740893fa0db61c
 SHA256: 3efb10f7563687799bc9ee709f74ed4e4bb12bdbab6890f17029bafaaf6d3a82
 SHA512: b37c3ac380bd516c8a53e4b327ba8a946a736abad5d550f3b440662c093746212a1333d2a742926df62fb6ea9401818f3423bb99cf943b445ff05997d852231f
+Section: 插件
 Description: 安装打开游戏即可生效 音量键 连按三下 唤出菜单
 Author: DG
 Name: DG管理器_音量（隐根）
-
